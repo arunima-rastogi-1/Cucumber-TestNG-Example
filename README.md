@@ -4,7 +4,7 @@ This repository demonstrates how to use **Cucumber** with **TestNG** to write an
 
 ## Features
 - Integration of Cucumber with TestNG.
-- Example feature files and step definitions.
+- Example feature files and step definitions.  
 - Maven-based project setup for seamless configuration.
 
 ## Prerequisites
