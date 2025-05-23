@@ -9,7 +9,7 @@ This repository demonstrates how to use **Cucumber** with **TestNG** to write an
 
 ## Prerequisites  
 - Java 8 or higher installed.
-- Maven installed.  
+- Maven installed.    
 - Git installed.
 
 ## Getting Started
