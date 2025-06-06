@@ -12,7 +12,7 @@ This repository demonstrates how to use **Cucumber** with **TestNG** to write an
 - Maven installed.    
 - Git installed.
   
-## Getting Started 
+## Getting Started  
 1. Clone the repository:
    ```bash 
    git clone https://github.com/arunima-rastogi-1/Cucumber-TestNG-Example.git
