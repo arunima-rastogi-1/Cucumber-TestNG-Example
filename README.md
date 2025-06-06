@@ -3,7 +3,7 @@
 This repository demonstrates how to use **Cucumber** with **TestNG** to write and run behavior-driven development (BDD) tests in a Java project. The project uses **Maven** for dependency management and build automation.
 
 ## Features
-- Integration of Cucumber with TestNG.
+- Integration of Cucumber with TestNG. 
 - Example feature files and step definitions.  
 - Maven-based project setup for seamless configuration.
 
