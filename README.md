@@ -8,7 +8,7 @@ This repository demonstrates how to use **Cucumber** with **TestNG** to write an
 - Maven-based project setup for seamless configuration.   
   
 ## Prerequisites  
-- Java 8 or higher installed.  
+- Java 8 or higher installed.   
 - Maven installed.       
 - Git installed.   
     
